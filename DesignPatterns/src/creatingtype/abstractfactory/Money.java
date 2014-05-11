@@ -1,8 +1,5 @@
-package creatingtype.factorymethod;
+package creatingtype.abstractfactory;
 
-/** 
- * ëүү
- */
 public interface Money {
 
     /** 

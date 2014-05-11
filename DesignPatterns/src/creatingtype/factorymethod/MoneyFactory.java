@@ -1,5 +1,8 @@
 package creatingtype.factorymethod;
 
+/** 
+ * Ã«Ò¯Ò¯¹¤³§
+ */
 public interface MoneyFactory {
 
     /**

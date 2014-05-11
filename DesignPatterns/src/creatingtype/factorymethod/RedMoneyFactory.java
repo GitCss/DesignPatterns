@@ -1,5 +1,8 @@
 package creatingtype.factorymethod;
 
+/** 
+ * ºìÉ«Ã«Ò¯Ò¯¹¤³§
+ */
 public class RedMoneyFactory implements MoneyFactory {
 
     /**

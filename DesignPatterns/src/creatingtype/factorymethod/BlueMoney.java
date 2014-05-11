@@ -1,5 +1,8 @@
 package creatingtype.factorymethod;
 
+/** 
+ * ��ɫëүү
+ */
 public class BlueMoney implements Money {
 
     /** 
